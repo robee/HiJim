@@ -1,0 +1,151 @@
+h1{   
+    font-size:65px;
+    margin-top:5px;
+}
+h2{
+    font-size:45px;
+}
+.container{
+    font-family: Helvetica, sans-serif;
+    color:#555;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:80px;
+    margin-bottom:40px;
+    background:white;
+    width:800px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+      -moz-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+      -webkit-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+    padding-top:10px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:10px;
+    border:1px solid #FFF;
+    overflow:hidden;
+}
+.tweet{
+  
+   position:fixed;
+   top:0;
+   left:0;
+   width:100%;
+   height:50px;
+   z-index:10000;
+   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+     -moz-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+     -webkit-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+  background: url('backred.png');   
+}
+.help{
+    font-family: 'Just Another Hand', cursive;
+    color:#c5b399;
+    font-size:40px;
+    letter-spacing:2px;
+    display:inline;
+    margin:auto;
+    margin-top: 4px;
+    float:right;
+    padding-top:5px;
+}
+.header{
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.footer{
+
+}
+.imgs{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    
+}
+ .arrow{
+        
+
+    }
+
+a, a:visited {
+  color: #555;
+}
+
+div#img-container {
+  display: block;
+  overflow: hidden;
+}
+
+div.content {
+  margin-bottom: 50px;
+}
+
+div.profile {
+  display: inline;
+  width: 45%;
+}
+
+div.profile h3 {
+  text-align: center;
+  font-size: 30pt;
+}
+
+div.profile p {
+  text-align: center;
+  line-height: 1.5;
+}
+
+.left-img{
+    
+    
+    float:left;
+    
+}
+.right-img{
+    
+    
+    float:right;
+    
+}
+.pic{
+    margin:40px;
+    margin-bottom:20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+      -moz-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+      -webkit-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.80);
+    
+}
+
+h1 {
+  margin-bottom: 25px;
+  font-size: 60pt;
+}
+ 
+h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 40pt;
+}
+
+h2.sub-heading {
+  margin-top: 0px;
+}
+
+h3 {  
+  margin-bottom: 25px;
+  line-height: 1.3;
+  font-size: 20pt;
+} 
+
+#arrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60px;
+}
